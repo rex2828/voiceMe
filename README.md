@@ -2,6 +2,6 @@
 ## A voice chat application implemented using WebRTC.
 ### Tech Stacks
 - React Js
-- Nodee Js
+- Node Js
 - Mongo DB
 - WebRTC
